@@ -2,7 +2,7 @@
 
 **Ad Astra**, under the leadership of its multi-disciplinary and auto-didactic operation, assumes the mentation of young minds by creating pioneering, robust, and leading-edge technologies with its microcultural structure; in practice, it is a company but in theory, it is a rhizomatic school center. Ad Astra forms, manages, and directs the right teams to meet customers' needs at the highest level and shape the technologies of the future from today.
 
-## Founder
+### Founder
 - **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
 - **Hasen Hüseyin Göçer** - *Co-Founder/Marketing Manager/Software Developer/CMO*: Unity / [LinkedIn](https://www.linkedin.com/in/hasengocer/)
 
@@ -26,15 +26,15 @@
 - **Holyum Software** - [Website](https://www.holyum.com/)
 - **MAS Aviation** - [Website](http://mashavacilik.com)
 
-## Projects
+### Projects
 Some of the projects developed or supported under this organization:
 
-### PoC (Proof of Concept)
+#### PoC (Proof of Concept)
 
 - **RPG Hard-core Adventure Sci-Fi PC Game - Corpus Orphicum:** Corphus Orphicum series presents an alternative historical narrative that is reduced to the surface of inquiry based on theology and philosophy. At the same time, it centralizes this narrative of history with mythological references and theological allusions in the science-fiction theme.
 >  - More [information](https://www.instagram.com/corpusorphicum/).
  
-### PoP (Proof of Product)
+#### PoP (Proof of Product)
 
 - **lodomcreations.com:** The project where the Lodom Creations corporate website was developed.
 >  - Project [link](https://github.com/anticverse/lodom).
@@ -54,7 +54,7 @@ Some of the projects developed or supported under this organization:
 - **emirhangungormez.com:** For Emirhan Güngörmez, we offer personalized web design services to elevate their online presence and create a unique digital identity.
 >  - Project [link](https://emirhangungormez.com).
 
-## Contact
+### Contact
 
 Contact Us:
 
