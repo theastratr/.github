@@ -1,4 +1,4 @@
-# Ad Astra
+# Ad Astra - Technology That Takes Knowledge To The Stars
 
 **Ad Astra**, under the leadership of its multi-disciplinary and auto-didactic operation, assumes the mentation of young minds by creating pioneering, robust, and leading-edge technologies with its microcultural structure; in practice, it is a company but in theory, it is a rhizomatic school center. Ad Astra forms, manages, and directs the right teams to meet customers' needs at the highest level and shape the technologies of the future from today.
 
