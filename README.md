@@ -60,4 +60,4 @@ Contact Us:
 
 - Email: [info@adastratr.com](mailto:info@adastratr.com)
 - Twitter: [@anticverse](https://twitter.com/anticverse)
-- Instagram: [@anticverse](https://www.instagram.com/anticverse)
+- Instagram: [@anticverse](https://www.instagram.com/adastratr)
