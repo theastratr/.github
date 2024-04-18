@@ -35,6 +35,12 @@ Some of the projects developed or supported under this organization:
 >  - More [information](https://www.instagram.com/corpusorphicum/).
  
 #### PoP (Proof of Product)
+- **ATOM:** ATOM is a comprehensive software platform that helps travel agencies manage their operations. Offering a wide range of services from reservation management to financial report generation, ATOM has powerful features to meet all the needs of travel agencies.
+>  - Project Repo [link](https://github.com/adastratr/atom).
+>  - Info [link](https://adastratr.com/blog/atom).
+
+
+#### PoS (Proof of Service)
 
 - **lodomcreations.com:** The project where the Lodom Creations corporate website was developed.
 >  - Project [link](https://github.com/anticverse/lodom).
