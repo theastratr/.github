@@ -1,6 +1,6 @@
-# Ad Astra - Technology That Takes Knowledge To The Stars
+# The Astra - Technology That Takes Knowledge To The Stars
 
-**Ad Astra**, under the leadership of its multi-disciplinary and auto-didactic operation, assumes the mentation of young minds by creating pioneering, robust, and leading-edge technologies with its microcultural structure; in practice, it is a company but in theory, it is a rhizomatic school center. Ad Astra forms, manages, and directs the right teams to meet customers' needs at the highest level and shape the technologies of the future from today.
+**The Astra**, under the leadership of its multi-disciplinary and auto-didactic operation, assumes the mentation of young minds by creating pioneering, robust, and leading-edge technologies with its microcultural structure; in practice, it is a company but in theory, it is a rhizomatic school center. The Astra forms, manages, and directs the right teams to meet customers' needs at the highest level and shape the technologies of the future from today.
 
 ### Founder
 - **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
@@ -17,7 +17,7 @@
 - **Emre Güngörmez** - *Product Manager*: Marketing / [Mail](mailto:emre@adastratr.com)
 
 ### Partners
-- **Ad Astra Software and Information** - [Website](https://www.adastratr.com)
+- **The Astra Software and Information** - [Website](https://www.adastratr.com)
 - **Lodom Creations Studio** - [Website](https://anticverse.github.io/lodom)
 - **Volar Investment** - [Website](https://www.volartr.com)
 - **Robimek Information Technologies** - [Website](https://www.robimek.com)
@@ -50,7 +50,7 @@ Some of the projects developed or supported under this organization:
 
 - **kaunostravel.com:** Kaunos Travel company is planning to revamp its website and develop a web application to facilitate seamless management of all departmental operations. [Service link!](https://kaunostravel.com).
  
-- **arizacozum.com.tr:** The project where the Ad Astra corporate website was developed. [Service link!](https://arizacozum.com.tr).
+- **arizacozum.com.tr:** The project where the The Astra corporate website was developed. [Service link!](https://arizacozum.com.tr).
  
 - **emirhangungormez.com:** For Emirhan Güngörmez, we offer personalized web design services to elevate their online presence and create a unique digital identity. [Service link!](https://emirhangungormez.com).
 
