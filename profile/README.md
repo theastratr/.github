@@ -3,18 +3,7 @@
 **The Astra**, under the leadership of its multi-disciplinary and auto-didactic operation, assumes the mentation of young minds by creating pioneering, robust, and leading-edge technologies with its microcultural structure; in practice, it is a company but in theory, it is a rhizomatic school center. The Astra forms, manages, and directs the right teams to meet customers' needs at the highest level and shape the technologies of the future from today.
 
 ### Founder
-- **Emirhan Güngörmez** - *Co-Founder/R&D Manager/Indie Developer/CEO*: Unreal Engine 5 & Unity / [GitHub](https://github.com/emirhangungormez)
 - **Hasen Hüseyin Göçer** - *Co-Founder/Marketing Manager/Software Developer/CMO*: Unity / [LinkedIn](https://www.linkedin.com/in/hasengocer/)
-
-### Core Team
-- **Eren Güngörmez** - *Indie Developer*: Unreal Engine 5 & Unity / [GitHub](https://github.com/erengungormez)
-- **Öznur Özsoy** - *Senior Designer*: Blender, Illustrator / [Behance](https://www.behance.net/znurzsoy)
-- **Yasin Erhan** - *Junoir Designer*: Blender / [LinkedIn](https://www.linkedin.com/in/yasin-erhan/)
-- **Mehmet Can** - *Senior Designer*: Figma, Photoshop, Illustrator / [Linktr](https://linktr.ee/canframe)
-- **Hanife Yılmaz** - *Developer*: Unreal Engine 5 / [Github](https://github.com/MTMLYNX)
-- **Hamza Ferrahoğlu** - *Senior Developer*: Django, Backend / [Github](https://github.com/npcHamza)
-- **Ömer Çiçek** - *Product Manager*: Marketing / [Mail](mailto:omer@adastratr.com)
-- **Emre Güngörmez** - *Product Manager*: Marketing / [Mail](mailto:emre@adastratr.com)
 
 ### Partners
 - **The Astra Software and Information** - [Website](https://www.adastratr.com)
